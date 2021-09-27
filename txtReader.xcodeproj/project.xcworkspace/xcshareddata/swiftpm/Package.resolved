@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyOpenCC",
+        "repositoryURL": "https://github.com/ddddxxx/SwiftyOpenCC",
+        "state": {
+          "branch": null,
+          "revision": "a802c02cbf1c6fcd529575f11a9876d94fc813f4",
+          "version": null
+        }
+      },
+      {
+        "package": "UniversalCharsetDetection",
+        "repositoryURL": "https://github.com/fumoboy007/UniversalCharsetDetection",
+        "state": {
+          "branch": null,
+          "revision": "dda2d63b7de4c772c20e359506afea0ab6ef5f98",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
